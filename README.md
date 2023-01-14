@@ -18,11 +18,10 @@ Missing features:
 Bugs to fix: 
 1. When separate data input process into a single function, program outputs empty results;
 2. "redefinition of <inputData> function" error;
-3. No capitalization, special chars.
 
 Password generator v1.1 01/14/2023:
 Features: 
-Generating a random phrase.
+1. Generating a random phrase
 
 Fixed:
 1. Fix empty results when seperate functions;
@@ -33,7 +32,7 @@ Missing features:
 2. Dumping results onto .txt file
 
 Bugs to fix:
-1. No capitalization, special chars.
+1. Unable to convert generated phrase into dumpable(?) form.
 
 
 
