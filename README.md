@@ -4,7 +4,7 @@ A simple password generator.
 Desired features:(listed in order of MVP criterias)
 1. Generate passwords accounting for length, capitalization, special characters;
 2. Dump generated usernames & passwords onto a .txt file;
-3. Using complex algoriths to generate passwords.
+3. Using complex algorithms to generate passwords.
 
 Password generator v1 01/10/2023:
 
