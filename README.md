@@ -20,5 +20,21 @@ Bugs to fix:
 2. "redefinition of <inputData> function" error;
 3. No capitalization, special chars.
 
+Password generator v1.1 01/14/2023:
+Features: 
+Generating a random phrase.
+
+Fixed:
+1. Fix empty results when seperate functions;
+2. Fix function initialization error;
+
+Missing features:
+1. Adjust for specific requirements (capitalization, special chars, etc)
+2. Dumping results onto .txt file
+
+Bugs to fix:
+1. No capitalization, special chars.
+
+
 
 
